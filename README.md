@@ -1,2 +1,1 @@
-# Airport-DB-in-progress-C-
-This is my first project on C++
+This is my first class project on C++.
